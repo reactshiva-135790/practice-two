@@ -1,0 +1,33 @@
+.about-heading {
+    color: #1E2329;
+    font-family: Rajdhani, sans-serif;
+    font-size: 3rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    line-height: 35px;
+    padding: 2px 1px;
+    position: relative;
+    text-transform: uppercase;
+    border-radius: 9px;
+}
+
+.about-para {
+    color: #999;
+    font-family: Rajdhani, sans-serif;
+    font-size: 18px;
+    margin-top: 1em;
+    letter-spacing: 0;
+    padding: 0 .5%;
+}
+
+.image-responsive{
+    max-width: 100%;
+    height: auto;
+}
+
+.order-style {
+    color: #999;
+    font-family: Rajdhani, sans-serif;
+    line-height: 26px;
+    list-style: auto;
+}

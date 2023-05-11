@@ -1,0 +1,25 @@
+
+
+.market-text{
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;
+    font-size: 24px;
+    color: #1E2329;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.home-text {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #1E2329;
+    margin-left: 8px;
+    font-family: 'Rajdhani', sans-serif;
+};

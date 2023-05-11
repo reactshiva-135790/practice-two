@@ -1,0 +1,25 @@
+
+.card-modified {
+    border: none;
+}
+
+.market-heading-card {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #707A8A;
+}
+
+.list-design {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    font-size: 16px;
+    color: #1E2329;
+    font-weight: 500;
+    list-style: none;
+    font-family: 'Rajdhani', sans-serif;
+}
